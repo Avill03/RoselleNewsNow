@@ -9,6 +9,13 @@ body
    margin: 0;
    padding: 0;
 }
+html, body {
+   overflow-x: hidden;
+   margin: 0;
+   padding: 0;
+   width: 100%;
+}
+
 #Shape3
 {
    border-width: 0;
