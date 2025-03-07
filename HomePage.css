@@ -16,6 +16,11 @@ html, body {
    width: 100%;
 }
 
+* {
+   max-width: 100%;
+   box-sizing: border-box;
+}
+
 #Shape3
 {
    border-width: 0;
